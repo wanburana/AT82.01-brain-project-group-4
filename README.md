@@ -15,7 +15,7 @@
   - EEG-based Brain-Computer Interfaces (BCIs): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications
 
 
-st122162 - Jirasak Buranathawornsom
-st122458 - Arnajak Tungchoksongchai
-st122336 - Sunny Kumar Tuladhar
-st122245 - Amanda raj Shrestha
+- st122162 - Jirasak Buranathawornsom
+- st122458 - Arnajak Tungchoksongchai
+- st122336 - Sunny Kumar Tuladhar
+- st122245 - Amanda raj Shrestha
