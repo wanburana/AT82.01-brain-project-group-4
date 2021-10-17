@@ -1,11 +1,11 @@
 # AT82.01-brain-project-group-4
 
-## Completed
-- Getting Research Topic (Stress/Emotion Predicition based on Music)
-
 ## Week 1 Progress
 
+### Completed
+- Getting Research Topic (Stress/Emotion Predicition based on Music)
 
+### In-Progress
 - Finding Emotion Dataset (Jirasak , Arnajak)
 - Finding Music Dataset (Sunny, Amanda)
 - Reading Papers
@@ -14,8 +14,9 @@
   - Emotion Recognition Based on EEG using DEAP Dataset (Jirasak) 
   - EEG-based Brain-Computer Interfaces (BCIs): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications
 
+- Analyze and Explore DEAP dataset
 
-- st122162 - Jirasak Buranathawornsom
-- st122458 - Arnajak Tungchoksongchai
-- st122336 - Sunny Kumar Tuladhar
-- st122245 - Amanda raj Shrestha
+st122162 - Jirasak Buranathawornsom  
+st122458 - Arnajak Tungchoksongchai  
+st122336 - Sunny Kumar Tuladhar  
+st122245 - Amanda raj Shrestha  
