@@ -13,7 +13,7 @@
   - EEG-Based Emotion Classification Using a Deep Neural Network and Sparse Autoencoder (Jirasak)
   - Emotion Recognition Based on EEG using DEAP Dataset (Jirasak) 
   - EEG-based Brain-Computer Interfaces (BCIs): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications
-
+  - EEG-based emotion recognition in music listening: A comparison of schemes for multiclass support vector machine (Amanda)
 - Analyze and Explore DEAP dataset
 
 st122162 - Jirasak Buranathawornsom  
