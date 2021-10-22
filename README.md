@@ -3,19 +3,30 @@
 ## Week 1 Progress
 
 ### Completed
-- Getting Research Topic (Stress/Emotion Predicition based on Music)
-
-### In-Progress
-- Finding Emotion Dataset (Jirasak , Arnajak)
-- Finding Music Dataset (Sunny, Amanda)
+- TOPIC SELECTED: Val, Dom, Arousal from DEAP dataset
+- Analyze and Explore DEAP dataset
 - Reading Papers
   - The Impact of Different Sounds on Stress Level in the Context of EEG, Cardiac Measures and Subjective Stress Level: A Pilot Study (Sunny)
-  - EEG-Based Emotion Classification Using a Deep Neural Network and Sparse Autoencoder (Jirasak)
-  - Emotion Recognition Based on EEG using DEAP Dataset (Jirasak) 
+  - Finding Emotion Dataset DEAP dataset (Jirasak , Arnajak)
+  - DEAP : A database for Emotion Analysis using Physiological Signals (Sunny, Jirasak, Arnajak)
   - EEG Signals to Measure Mental Stress (Arnajak)
-  - EEG-based Brain-Computer Interfaces (BCIs): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications
+  - Emotion Recognition Based on EEG using DEAP Dataset (Jirasak) 
+
+## Week 2 Progress
+### In-Progress
+- Understanding EEGNet and MNE tool(Arnajak)
+- Designing Possible model for DEAP (Jirasak)
+- Feature/ Information (preprocessing) Extraction from DEAP dataset (Sunny, Jirasak)
+
+- Reading Papers  - 
+  - EEG-Based Emotion Classification Using a Deep Neural Network and Sparse Autoencoder (Jirasak)
+  - EEG-based Brain-Computer Interfaces (BCIs): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications 
   - EEG-based emotion recognition in music listening: A comparison of schemes for multiclass support vector machine (Amanda)
-- Analyze and Explore DEAP dataset
+
+
+# Problems facing
+- Obtaining full DEAP dataset and its properties from main source
+
 
 st122162 - Jirasak Buranathawornsom  
 st122458 - Arnajak Tungchoksongchai  
