@@ -23,9 +23,15 @@
   - EEG-based Brain-Computer Interfaces (BCIs): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications 
   - EEG-based emotion recognition in music listening: A comparison of schemes for multiclass support vector machine (Amanda)
 
+## Week 3 Progress
+### Completed
+- Propose and demonstrate on using Welch's method to extract feature from data (Sunny)
+- Predict the Val, Dom, Arousal using 4 bands of area under the curve of Welch's method transformed data from each channel, using simple fully-connected deep neural network (Jirasak, Sunny)
+- Try using EEGNet on the data (Arnajak)
 
-# Problems facing
-- Obtaining full DEAP dataset and its properties from main source
+### In-Progress
+- Consider Gabor Transform for turning raw data to 3D spectrography, in order to retain temporal feature (Jirasak)
+- Look into Data cleaning/preprocessing step (ICA, etc.) to reduce unnecessary noise (Arnajak) 
 
 
 st122162 - Jirasak Buranathawornsom  
