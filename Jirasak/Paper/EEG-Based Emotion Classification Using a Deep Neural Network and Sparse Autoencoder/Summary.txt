@@ -1,0 +1,19 @@
+"Start: 28/10/21  
+URL: https://www.frontiersin.org/articles/10.3389/fnsys.2020.00043/full
+Question:  
+Summary    
+This paper proposed a CNN network with an additional Sparse Autoencoder (SAE), which they claimed to be able to help extracting only relevant information and thus improve the test accuracy of the classification compared to the regular CNN network   
+
+Data Extraction   
+They used 32 out of 40 channels. They applied bandpass filter on each channel so that the data are seperated into 4 bands, α (1–7 Hz), β (8–13 Hz), θ (14–30 Hz), γ (30–45 Hz). Then they applied sliding time window with an overlap to each band, they tried 2 options, 8s time window moving every 4s (14 segments), and 12s time window moving every 8s(7 segments), they found that first option yield a better result. After that, 4 different features (PCC, PCA, SC) are extracted from the data. they found that PCC feature give the most impact to the model accuracy   
+
+Interesting takeaway 
+
+
+Conclusion  
+- Proposed CNN model with SAE yield higher accuracy compared to regular CNN model
+- PCC-based feature shown to have a high impact to the accuracy of the model
+- The overlapping window also affect the result, in general the shorter the overlap window is, the higher the accuracy (More similar features are learnt). But too short overlapping time cause the too much sample and thus higher training time
+
+
+End: 03/11/21"

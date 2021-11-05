@@ -1,0 +1,32 @@
+"
+URL: https://www.sciencedirect.com/science/article/pii/S2667241321000033
+Summary    
+This paper review the detail of EEG data analysis, from description and meaning of each power band, to  feature extraction method, as well as the classification model used  
+Extracting only power sprectrum can be quick and easy, but requied a lot of domain knowledge otherwise a lot of information is lost. Nowadays there are more sophisticated method to extract the information. Here are some of the interesting methods  
+- More well-known
+    - Short-Time Fourier Transform (STFT)
+    - Power Spectral Density (PSD)
+    - Wavelet Transform (WT)
+    - Differential Entropy (DE)
+    - Empirical mode decomposition (EMD)
+- More Advance
+    - dynamic differential entropy (DDE): combined the advantages of the EMD and DE
+    - dual tree-complex wavelet transform (DT-CWT): good anti-aliasing effect and translation invariance, compared to traditional wavelet transform
+    - DE-PCCM: combined DE and Pearson correlation coefficient matrix (PCCM), can measure the correlation between different brain nodes in different emotional states
+- Other (High Accuracy)
+    - Adaptive Tunable Q Wavelet Transform (ATQWT)
+    - Smoothed Pseudo Wigner Ville Distribution (SPWVD)
+
+
+Interesting Notes 
+- wavelet packet transform (WPT) and Hilbert-Huang transform (HHT) are also important methods of time-frequency domain analysis
+- dynamic empirical convolutional neural network (DECNN) algorithm is used, and the classification accuracy is 97.56%
+- a deep forest-based model achieved average accuracy of valence and arousal reach 97.69% and 97.53% (Proposed to overcome shortcoming of excessive parameters and large amount data)
+- L. Yang et al. proposed a sequence model based on deep learning to construct a time sequence of fixed length time window data and input it into a temporal convolutional network to solve the problem that the EEG signals are dependent on time
+- B. H. Kim et al. [89] proposed a model based on convolutional long and short-term memory networks and a loss function based on
+time edges. The DEAP public dataset experiment showed that the recognition accuracy was improved by 15.96%
+
+
+
+
+End: 03/11/21"

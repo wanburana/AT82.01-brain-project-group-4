@@ -1,0 +1,14 @@
+"
+Start: 03/11/21  
+URL: https://www.frontiersin.org/articles/10.3389/fncom.2021.758212/full
+Summary    
+This paper review various necessary topics including preprocessing, feature extraction, feature selection, and lastly classifier. It was quite comprehensive. 
+
+
+Interesting Notes 
+- There are many interesting methods, models. The result is also very good but also very technical. A lot of jargon that need to be look into further
+
+
+
+
+End: 03/11/21"
