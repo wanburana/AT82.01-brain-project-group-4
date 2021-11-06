@@ -18,6 +18,8 @@
 - Designing Possible model for DEAP (Jirasak)
 - Feature/ Information (preprocessing) Extraction from DEAP dataset (Sunny, Jirasak)
 
+
+
 - Reading Papers  - 
   - EEG-Based Emotion Classification Using a Deep Neural Network and Sparse Autoencoder (Jirasak)
   - EEG-based Brain-Computer Interfaces (BCIs): A Survey of Recent Studies on Signal Sensing Technologies and Computational Intelligence Approaches and Their Applications 
@@ -32,6 +34,8 @@
 ### In-Progress
 - Consider Gabor Transform for turning raw data to 3D spectrography, in order to retain temporal feature (Jirasak)
 - Look into Data cleaning/preprocessing step (ICA, etc.) to reduce unnecessary noise (Arnajak) 
+- Trying out EEGNet and its derivatives on the DEAP dataset directly (Sunny)
+- Reading the paper on EEGNET (Sunny)
 
 
 st122162 - Jirasak Buranathawornsom  
