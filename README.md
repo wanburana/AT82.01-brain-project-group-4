@@ -37,6 +37,11 @@
 - Trying out EEGNet and its derivatives on the DEAP dataset directly (Sunny)
 - Reading the paper on EEGNET (Sunny)
 
+## Week 4 Progress
+### Completed
+- Read 3 papers and Upload paper's PDF files and their summary in github/google drive (Jirasak)  
+
+
 
 st122162 - Jirasak Buranathawornsom  
 st122458 - Arnajak Tungchoksongchai  
