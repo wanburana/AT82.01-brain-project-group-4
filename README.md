@@ -40,6 +40,7 @@
 ## Week 4 Progress
 ### Completed
 - Read 3 papers and Upload paper's PDF files and their summary in github/google drive (Jirasak)  
+- Read new paper and uploaded the summary on google drive. (Amanda)
 
 
 
