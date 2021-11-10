@@ -1,0 +1,65 @@
+Paper: Identifying Stable Patterns over Time for Emotion Recognition from EEG
+Datasets used : DEAP and SEED
+
+Question Asked:
+What is the capability of EEG signals for discriminating between different emotions?
+Are there any stable EEg patterns of neural oscillations or brain regions for representing emotions?
+What is the day to day performance of model based on machine learning approaches?
+
+
+
+The experimental results reveal the neural signatures for three emoitions (positive, neutral and negative)
+
+
+Main aim:
+Investigate stable EEG patterns over time using time frequency analysis and machine learning approaches
+Using dataset which is subset of the SEED dataset
+
+Deature extraction:
+Electrodes and features efficient combinations for emotion recognition
+
+Power Spectral Density (PSD), differential entropy(DE), differential asymmentry(DASM),
+Rational Asymmetry (RASM), Asymmetry(ASM), and differential Caudality(DCAU)
+
+
+Using linear dynamic system approach to filter out components that are not associated with emotional status
+
+The extracted features are further fed to three conventional patterns classifiers ie KNN, logistic regression and support vector machines
+
+Extraction of PSD, DE, DASM, RASM,
+ASM and DCAU features of the 32-channel EEG data.
+The original EEG data from the DEAP dataset were
+preprocessed with down-sampling to 128 Hz and a
+bandpass frequency filter from 4.0-45.0 Hz, and EOG
+artifacts were removed. Therefore, we extracted the
+features in the four frequency bands: theta: 4-7 Hz,
+alpha: 8-13 Hz, beta: 14-30 Hz, and gamma: 31-45 Hz.
+The features were further smoothed using the linear
+dynamic system approach. We then selected SVM and
+GELM as the classifiers. In this study, we used the
+SVM classifier with a linear kernel, and the number of
+hidden layer neurons for GELM was fixed as 10 times
+the dimensions of the input. To use the entire data set
+for training and testing the classifiers, a 5-fold crossvalidation scheme was adopted. All the experiments
+were performed with 5-fold cross-validation, and the
+classification performance was evaluated using the
+classification accuracy rate.
+
+The DE features outperform the
+PSD features significantly (p < 0.01), and for classifiers, the performance of GELM is better than that of SVM
+(p < 0.01). As we can see from Table 3, the diversity of
+classification accuracy for different frequency bands is
+not significant for the DEAP dataset (p > 0.95).
+
+
+Conclusion:
+GELM with differential entropy features outperforms other methods. The best average classification accuracies of 69.67% and 91.0%
+on the DEAP and SEED datasets respectively. 
+
+The lateral temporal areas activate more for positive emotions than negative emotions in the beta and gama bands, the 
+neural patterns of neutral emotions have higher alpha responses at parietal and occipital sites and higher gamma responses at prefrontal sites
+The
+experiment results also indicate that the stable EEG
+patterns across sessions exhibit consistency among
+repeated EEG measurements of the same participant
+
