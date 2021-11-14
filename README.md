@@ -41,6 +41,9 @@
 ### Completed
 - Read 3 papers and Upload paper's PDF files and their summary in github/google drive (Jirasak)  
 - Read new paper and uploaded the summary on google drive. (Amanda)
+
+## Week 5 Progress
+### Completed
 - Read 2 paper , Upload paper summary in google drive and Do LSTM model but stuck in Overfitted problem. (Arnajak)
 
 
