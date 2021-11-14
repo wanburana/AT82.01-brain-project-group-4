@@ -45,6 +45,7 @@
 ## Week 5 Progress
 ### Completed
 - Read 2 paper , Upload paper summary in google drive and Do LSTM model but stuck in Overfitted problem. (Arnajak)
+- Creating scalogram using continuous wavelet transform to feed into CNN network.
 
 
 st122162 - Jirasak Buranathawornsom  
