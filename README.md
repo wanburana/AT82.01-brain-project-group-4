@@ -47,6 +47,9 @@
 - Read 2 paper , Upload paper summary in google drive and Do LSTM model but stuck in Overfitted problem. (Arnajak)
 - Creating scalogram using continuous wavelet transform to feed into CNN network.
 
+## Week 6 progress
+- Creating STFT + CNN Network for DEAP Valence and Arousal (Sunny)
+
 
 st122162 - Jirasak Buranathawornsom  
 st122458 - Arnajak Tungchoksongchai  
