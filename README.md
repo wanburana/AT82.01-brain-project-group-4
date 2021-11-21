@@ -49,7 +49,7 @@
 
 ## Week 6 progress
 - Creating STFT + CNN Network for DEAP Valence and Arousal (Sunny)
-
+- face problem overfitting or maybe noise in both of model ( psd->LSTM ) and (STFT -> conv2d)
 
 st122162 - Jirasak Buranathawornsom  
 st122458 - Arnajak Tungchoksongchai  
