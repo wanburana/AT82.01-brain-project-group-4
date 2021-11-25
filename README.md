@@ -49,6 +49,7 @@
 
 ## Week 6 progress
 - Creating STFT + CNN Network for DEAP Valence and Arousal (Sunny)
+- Tried PSD with 4 bands on 32 channels. Created 128 combined features and ran it on ML, (NVB	,SVC-rbf,	KNN	,XGBoost)
 - face problem overfitting or maybe noise in both of model ( psd->LSTM ) and (STFT -> conv2d)
 - Successfully replicate a model using continuous wavelet transform from [this github](https://github.com/Daisybiubiubiu/EEG-Emotion-Recognition), CWT preprocess code and scale selection code also translated from matlab to python   (Jirasak)
 - Creating STFT + LSTM model for Valence, Arousal, Dominance analysis (Amanda)
