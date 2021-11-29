@@ -5,8 +5,6 @@
 - Each folder with the members name contains the 
   - code : notebook of the experiments
   - papers read : Reference papers for the experiments
-  - presentation : Portions of the slides presented by that member
-
 
 
 # Progress reports
