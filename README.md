@@ -1,5 +1,13 @@
 # AT82.01-brain-project-group-4
 
+## Overall guide of files and folders
+- Main presentation file is CP Group 4 Project (MAIN).pdf
+- Each folder with the members name contains the 
+  - code : notebook of the experiments
+  - papers read : Reference papers for the experiments
+
+
+# Progress reports
 ## Week 1 Progress
 
 ### Completed

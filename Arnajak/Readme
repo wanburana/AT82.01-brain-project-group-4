@@ -1,0 +1,21 @@
+This contain 2 folder ( code + paper )
+
+CODE
+  - Individual subject
+        Band+cov1d+lstm = 92.57 
+        stft+cnn = 100 
+  - Cross subject
+        Lstm = 50.86
+        ICA+conv1d+Lstm= 57.08
+        conv1d+Lstm+attention = 54.03
+        psd+conv1d+lstm = 47.08
+        Stft+conv2d = 54.78
+        stft+cov2d+L2 = 60.94
+
+  Note - 00_final_arnajak.ipynb is a summary file but it doesn't contain preprocess 
+       - Loaddata&Preprocessing is a how to I got a data and preprocessing it 
+       - tryEEG is like a note file so it massy!
+  
+  Paper 
+   - 3 paper
+   - 1 summary paper files
